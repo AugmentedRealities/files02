@@ -1,0 +1,189 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3689,
+      "type": "VEC3",
+      "max": [
+        0.0625,
+        0.04349745437502861,
+        0.077661260962486267
+      ],
+      "min": [
+        -0.0625,
+        0.0,
+        -0.077661260962486267
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3689,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        0.78405356407165527,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3689,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.87660366296768188,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.87660366296768188,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3689,
+      "type": "VEC2",
+      "max": [
+        0.99382084608078,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.33561068773269653
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 13062,
+      "type": "SCALAR",
+      "max": [
+        3688.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "3dmodel.bin",
+      "byteLength": 203196
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 44268
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 44268,
+      "byteLength": 44268
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 88536,
+      "byteLength": 59024
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 147560,
+      "byteLength": 29512
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 177072,
+      "byteLength": 26124
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5471698,
+          0.490546852,
+          0.4521894,
+          1.0
+        ],
+        "metallicFactor": 0.54000002145767212
+      },
+      "name": "DesertRocks"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "default"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        0.017018497,
+        -0.009404088,
+        0.00569437444
+      ],
+      "name": "3dmodel"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ],
+      "name": "default"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "3dmodel"
+    }
+  ]
+}
