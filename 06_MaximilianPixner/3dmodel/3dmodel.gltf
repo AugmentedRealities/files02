@@ -1,0 +1,195 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 4362,
+      "type": "VEC3",
+      "max": [
+        112.52294158935547,
+        0.0,
+        112.47648620605469
+      ],
+      "min": [
+        -107.53600311279297,
+        -25.00678825378418,
+        -120.74749755859375
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4362,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4362,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4362,
+      "type": "VEC2",
+      "max": [
+        64.24920654296875,
+        12.742474555969238
+      ],
+      "min": [
+        -62.553764343261719,
+        -13.13887882232666
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 8028,
+      "type": "SCALAR",
+      "max": [
+        4361.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "Plattar UnityGLTF (2020.3.19f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "3dmodel.bin",
+      "byteLength": 241488
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 52344
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 52344,
+      "byteLength": 52344
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 104688,
+      "byteLength": 69792
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 174480,
+      "byteLength": 34896
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 209376,
+      "byteLength": 32112
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      },
+      "name": "defaultMat"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "default"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "rotation": [
+        3.7252903E-09,
+        -0.998486638,
+        0.0,
+        -0.0549945533
+      ],
+      "scale": [
+        0.000100000005,
+        0.000149999978,
+        0.0001
+      ],
+      "translation": [
+        0.034832865,
+        0.0470662639,
+        0.09845957
+      ],
+      "name": "3dmodel"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "name": "default"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "3dmodel"
+    }
+  ]
+}
