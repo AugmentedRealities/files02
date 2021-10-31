@@ -1,7 +1,4 @@
 {
-  "extensionsUsed": [
-    "KHR_texture_transform"
-  ],
   "accessors": [
     {
       "bufferView": 0,
@@ -60,16 +57,16 @@
       "type": "VEC2",
       "max": [
         0.99853515625,
-        0.99853515625
+        1.0
       ],
       "min": [
         0.0,
-        0.0
+        0.00146484375
       ]
     },
     {
       "bufferView": 4,
-      "componentType": 5125,
+      "componentType": 5123,
       "count": 185280,
       "type": "SCALAR",
       "max": [
@@ -81,13 +78,12 @@
     }
   ],
   "asset": {
-    "generator": "Plattar UnityGLTF (2020.3.19f1)",
     "version": "2.0"
   },
   "buffers": [
     {
       "uri": "3dmodel.bin",
-      "byteLength": 2553120
+      "byteLength": 2182560
     }
   ],
   "bufferViews": [
@@ -113,48 +109,21 @@
     {
       "buffer": 0,
       "byteOffset": 1812000,
-      "byteLength": 741120
-    }
-  ],
-  "images": [
-    {
-      "uri": "normal.png",
-      "name": "normal"
-    },
-    {
-      "uri": "diffuse.png",
-      "name": "diffuse"
+      "byteLength": 370560
     }
   ],
   "materials": [
     {
       "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 1,
-          "extensions": {
-            "KHR_texture_transform": {
-              "scale": [
-                3.0,
-                3.0
-              ]
-            }
-          }
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
+        "baseColorFactor": [
+          0.4716981,
+          0.40316838,
+          0.40316838,
+          1.0
+        ],
+        "metallicFactor": 0.0
       },
-      "normalTexture": {
-        "index": 0,
-        "extensions": {
-          "KHR_texture_transform": {
-            "scale": [
-              3.0,
-              3.0
-            ]
-          }
-        }
-      },
-      "name": "Concrete pattern 19"
+      "name": "White"
     }
   ],
   "meshes": [
@@ -171,32 +140,10 @@
           "material": 0
         }
       ],
-      "name": "Default"
+      "name": "3dmodel"
     }
   ],
   "nodes": [
-    {
-      "children": [
-        1
-      ],
-      "rotation": [
-        0.0,
-        0.0,
-        0.0,
-        -1.0
-      ],
-      "scale": [
-        0.3,
-        0.3,
-        0.3
-      ],
-      "translation": [
-        -0.0102000087,
-        -0.00173061341,
-        0.08060001
-      ],
-      "name": "3dmodel"
-    },
     {
       "mesh": 0,
       "rotation": [
@@ -205,15 +152,17 @@
         0.0,
         -1.0
       ],
-      "name": "Default"
-    }
-  ],
-  "samplers": [
-    {
-      "minFilter": 9729
-    },
-    {
-      "minFilter": 9987
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ],
+      "translation": [
+        0.615999937,
+        -0.2457687,
+        0.942
+      ],
+      "name": "3dmodel"
     }
   ],
   "scene": 0,
@@ -223,18 +172,6 @@
         0
       ],
       "name": "3dmodel"
-    }
-  ],
-  "textures": [
-    {
-      "sampler": 0,
-      "source": 0,
-      "name": "normal"
-    },
-    {
-      "sampler": 1,
-      "source": 1,
-      "name": "diffuse"
     }
   ]
 }
