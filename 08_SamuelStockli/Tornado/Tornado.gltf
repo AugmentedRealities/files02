@@ -1,0 +1,316 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7076,
+      "type": "VEC3",
+      "max": [
+        142.52816772460938,
+        105.0,
+        147.25274658203125
+      ],
+      "min": [
+        -111.872802734375,
+        0.0,
+        -126.82982635498047
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7076,
+      "type": "VEC3",
+      "max": [
+        0.99998819828033447,
+        0.99998259544372559,
+        1.0
+      ],
+      "min": [
+        -0.99998819828033447,
+        -0.99998259544372559,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7076,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        1.0,
+        0.99995565414428711,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.99995803833007813,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7076,
+      "type": "VEC2",
+      "max": [
+        0.99853515625,
+        0.99725770950317383
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 21228,
+      "type": "SCALAR",
+      "max": [
+        7075.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 30,
+      "type": "SCALAR",
+      "max": [
+        0.96666669845581055
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC3",
+      "max": [
+        0.61599993705749512,
+        -0.24576869606971741,
+        -0.94199997186660767
+      ],
+      "min": [
+        0.61599993705749512,
+        -0.24576869606971741,
+        -0.94199997186660767
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC4",
+      "max": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0,
+        -0.99452191591262817
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC3",
+      "max": [
+        0.0059999995864927769,
+        0.0095880003646016121,
+        0.0059999995864927769
+      ],
+      "min": [
+        0.0059999995864927769,
+        0.0095880003646016121,
+        0.0059999995864927769
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 0,
+            "path": "scale"
+          }
+        }
+      ],
+      "samplers": [
+        {
+          "input": 5,
+          "output": 6
+        },
+        {
+          "input": 5,
+          "output": 7
+        },
+        {
+          "input": 5,
+          "output": 8
+        }
+      ],
+      "name": "Tornado"
+    }
+  ],
+  "asset": {
+    "generator": "Plattar UnityGLTF (2020.3.19f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Tornado.bin",
+      "byteLength": 425880
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 84912
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 84912,
+      "byteLength": 84912
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 169824,
+      "byteLength": 113216
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 283040,
+      "byteLength": 56608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 339648,
+      "byteLength": 84912
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 424560,
+      "byteLength": 120
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 424680,
+      "byteLength": 360
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 425040,
+      "byteLength": 480
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 425520,
+      "byteLength": 360
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6745098,
+          0.7169812,
+          0.721568644,
+          0.5882353
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.53600001335144043
+      },
+      "alphaMode": "BLEND",
+      "name": "cloud01"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Default"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.0018,
+        0.00287640025,
+        0.0018
+      ],
+      "translation": [
+        -0.0102000087,
+        -0.00173061341,
+        0.08060001
+      ],
+      "name": "Tornado"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "Default"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Tornado"
+    }
+  ]
+}

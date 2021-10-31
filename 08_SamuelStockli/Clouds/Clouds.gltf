@@ -1,0 +1,1129 @@
+{
+  "extensionsUsed": [
+    "KHR_texture_transform"
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 37750,
+      "type": "VEC3",
+      "max": [
+        0.447313129901886,
+        0.38493001461029053,
+        0.44320026040077209
+      ],
+      "min": [
+        -0.447313129901886,
+        0.0,
+        -0.44320026040077209
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 37750,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        0.99999988079071045
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.99999988079071045
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 37750,
+      "type": "VEC4",
+      "max": [
+        0.99999594688415527,
+        1.0,
+        0.999991774559021,
+        1.0
+      ],
+      "min": [
+        -0.99999594688415527,
+        0.0,
+        -0.999991774559021,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 37750,
+      "type": "VEC2",
+      "max": [
+        0.99853515625,
+        0.99853515625
+      ],
+      "min": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 185280,
+      "type": "SCALAR",
+      "max": [
+        37749.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 941,
+      "type": "VEC3",
+      "max": [
+        26.448785781860352,
+        18.545246124267578,
+        15.927352905273438
+      ],
+      "min": [
+        -27.086692810058594,
+        -15.3102445602417,
+        -15.805278778076172
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 941,
+      "type": "VEC3",
+      "max": [
+        0.99294310808181763,
+        0.99937206506729126,
+        0.99141943454742432
+      ],
+      "min": [
+        -0.97606557607650757,
+        -0.991666853427887,
+        -0.99811649322509766
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 941,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5125,
+      "count": 996,
+      "type": "SCALAR",
+      "max": [
+        940.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 981,
+      "type": "VEC3",
+      "max": [
+        26.060670852661133,
+        18.8322696685791,
+        16.490467071533203
+      ],
+      "min": [
+        -29.532615661621094,
+        -17.214010238647461,
+        -17.540229797363281
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 981,
+      "type": "VEC3",
+      "max": [
+        0.98881733417510986,
+        0.97970986366271973,
+        0.99884146451950073
+      ],
+      "min": [
+        -0.99362754821777344,
+        -0.99191123247146606,
+        -0.99732261896133423
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 981,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 1062,
+      "type": "SCALAR",
+      "max": [
+        980.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 30,
+      "type": "SCALAR",
+      "max": [
+        0.96666669845581055
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        0.39100000262260437,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.39100000262260437,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC4",
+      "max": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0,
+        -0.99452191591262817
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC3",
+      "max": [
+        0.0060000000521540642,
+        0.0095880003646016121,
+        0.0060000000521540642
+      ],
+      "min": [
+        0.0060000000521540642,
+        0.0095880003646016121,
+        0.0060000000521540642
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 7,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 7,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 7,
+            "path": "scale"
+          }
+        }
+      ],
+      "samplers": [
+        {
+          "input": 13,
+          "output": 14
+        },
+        {
+          "input": 13,
+          "output": 15
+        },
+        {
+          "input": 13,
+          "output": 16
+        }
+      ],
+      "name": "TornadoModel"
+    }
+  ],
+  "asset": {
+    "generator": "Plattar UnityGLTF (2020.3.19f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Clouds.bin",
+      "byteLength": 2639552
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 453000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 453000,
+      "byteLength": 453000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 906000,
+      "byteLength": 604000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1510000,
+      "byteLength": 302000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1812000,
+      "byteLength": 741120
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2553120,
+      "byteLength": 11292
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2564412,
+      "byteLength": 11292
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2575704,
+      "byteLength": 15056
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2590760,
+      "byteLength": 3984
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2594744,
+      "byteLength": 11772
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2606516,
+      "byteLength": 11772
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2618288,
+      "byteLength": 15696
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2633984,
+      "byteLength": 4248
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2638232,
+      "byteLength": 120
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2638352,
+      "byteLength": 360
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2638712,
+      "byteLength": 480
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2639192,
+      "byteLength": 360
+    }
+  ],
+  "images": [
+    {
+      "uri": "normal.png",
+      "name": "normal"
+    },
+    {
+      "uri": "diffuse.png",
+      "name": "diffuse"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "scale": [
+                3.0,
+                3.0
+              ]
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "normalTexture": {
+        "index": 0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "scale": [
+              3.0,
+              3.0
+            ]
+          }
+        }
+      },
+      "name": "Concrete pattern 19"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6745098,
+          0.7169812,
+          0.721568644,
+          0.5882353
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.53600001335144043
+      },
+      "alphaMode": "BLEND",
+      "name": "cloud01"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Default"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TANGENT": 7
+          },
+          "indices": 8,
+          "material": 1
+        }
+      ],
+      "name": "Cloud_Cumulus (3)"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TANGENT": 11
+          },
+          "indices": 12,
+          "material": 1
+        }
+      ],
+      "name": "Cloud_Cumulus_Med"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ],
+      "translation": [
+        1.19281292,
+        -0.108230621,
+        -1.27721083
+      ],
+      "name": "Clouds"
+    },
+    {
+      "children": [
+        2,
+        4,
+        7
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        -4.05,
+        0.0,
+        3.97
+      ],
+      "name": "Building 1 (1)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "Raum - Folgen VR Model V1"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "Default"
+    },
+    {
+      "children": [
+        5
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        0.1,
+        0.25,
+        0.0
+      ],
+      "name": "Spiral_01.1 Tornado"
+    },
+    {
+      "children": [
+        6
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        -0.28,
+        0.391,
+        -0.39
+      ],
+      "name": "particle master"
+    },
+    {
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        1.2247,
+        1.2247,
+        1.2247
+      ],
+      "translation": [
+        -1.02,
+        -0.1,
+        1.18
+      ],
+      "name": "particle glow slave birth trail"
+    },
+    {
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.006,
+        0.009588,
+        0.006
+      ],
+      "translation": [
+        0.0,
+        0.391,
+        0.0
+      ],
+      "name": "TornadoModel"
+    },
+    {
+      "children": [
+        9
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        -5.05407524,
+        1.08,
+        2.59
+      ],
+      "name": "sky cloud 1"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.015648501
+      ],
+      "translation": [
+        0.0,
+        0.744,
+        0.0
+      ],
+      "name": "Cloud_Cumulus (3)"
+    },
+    {
+      "children": [
+        11
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        -3.19,
+        0.27,
+        2.81
+      ],
+      "name": "sky cloud 2"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.00658000028,
+        0.00658000028,
+        0.00658000028
+      ],
+      "translation": [
+        0.0,
+        0.504,
+        0.0
+      ],
+      "name": "Cloud_Cumulus"
+    },
+    {
+      "children": [
+        13
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        -2.59,
+        0.6,
+        5.27
+      ],
+      "name": "sky cloud 3"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.0,
+        -0.155456781,
+        0.0,
+        -0.987842739
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.007
+      ],
+      "translation": [
+        0.0,
+        0.4,
+        0.0
+      ],
+      "name": "Cloud_Cumulus_Med"
+    },
+    {
+      "children": [
+        15
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.5735764,
+        -0.8191521
+      ],
+      "translation": [
+        -5.171,
+        0.573,
+        3.85000014
+      ],
+      "name": "sky cloud 1 (1)"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.015648501
+      ],
+      "translation": [
+        0.0,
+        0.744,
+        0.0
+      ],
+      "name": "Cloud_Cumulus (3)"
+    },
+    {
+      "children": [
+        17
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.5735764,
+        -0.8191521
+      ],
+      "translation": [
+        -2.92,
+        0.17,
+        4.07
+      ],
+      "name": "sky cloud 2 (1)"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.00658000028,
+        0.00658000028,
+        0.00658000028
+      ],
+      "translation": [
+        1.639,
+        0.504,
+        1.634
+      ],
+      "name": "Cloud_Cumulus"
+    },
+    {
+      "children": [
+        19
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.5735764,
+        -0.8191521
+      ],
+      "translation": [
+        -3.6,
+        0.6,
+        6.53
+      ],
+      "name": "sky cloud 3 (1)"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.0,
+        -0.155456781,
+        0.0,
+        -0.987842739
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.007
+      ],
+      "translation": [
+        -1.17,
+        0.4,
+        -4.45
+      ],
+      "name": "Cloud_Cumulus_Med"
+    },
+    {
+      "children": [
+        21
+      ],
+      "rotation": [
+        0.0,
+        0.335550219,
+        0.0,
+        -0.9420223
+      ],
+      "translation": [
+        -2.188,
+        0.745,
+        3.52
+      ],
+      "name": "sky cloud 1 (2)"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.015648501
+      ],
+      "translation": [
+        0.0,
+        0.744,
+        0.0
+      ],
+      "name": "Cloud_Cumulus (3)"
+    },
+    {
+      "children": [
+        23
+      ],
+      "rotation": [
+        0.178637549,
+        0.125083357,
+        -0.5597714,
+        -0.799436569
+      ],
+      "translation": [
+        -3.91,
+        0.53,
+        4.07
+      ],
+      "name": "sky cloud 2 (2)"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.00658000028,
+        0.00658000028,
+        0.00658000028
+      ],
+      "translation": [
+        1.639,
+        0.504,
+        1.634
+      ],
+      "name": "Cloud_Cumulus"
+    },
+    {
+      "children": [
+        25
+      ],
+      "rotation": [
+        0.0,
+        0.335550219,
+        0.0,
+        -0.9420223
+      ],
+      "translation": [
+        -3.6,
+        0.53,
+        2.37
+      ],
+      "name": "sky cloud 1 (3)"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.015648501
+      ],
+      "translation": [
+        0.0,
+        0.744,
+        0.0
+      ],
+      "name": "Cloud_Cumulus (3)"
+    },
+    {
+      "children": [
+        27
+      ],
+      "rotation": [
+        0.0,
+        -0.7386146,
+        0.0,
+        -0.674127936
+      ],
+      "translation": [
+        -5.19,
+        1.27,
+        5.27
+      ],
+      "name": "sky cloud 3 (2)"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.0,
+        -0.155456781,
+        0.0,
+        -0.987842739
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.007
+      ],
+      "translation": [
+        0.0,
+        0.4,
+        0.0
+      ],
+      "name": "Cloud_Cumulus_Med"
+    },
+    {
+      "children": [
+        29
+      ],
+      "rotation": [
+        0.0,
+        -0.3477472,
+        0.0,
+        -0.937588334
+      ],
+      "translation": [
+        -5.23,
+        0.6,
+        6.53
+      ],
+      "name": "sky cloud 3 (3)"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.0,
+        -0.155456781,
+        0.0,
+        -0.987842739
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.007
+      ],
+      "translation": [
+        0.0,
+        0.4,
+        0.0
+      ],
+      "name": "Cloud_Cumulus_Med"
+    },
+    {
+      "children": [
+        31
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        -2.14,
+        1.08,
+        7.2
+      ],
+      "name": "sky cloud 1 (4)"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "scale": [
+        0.007,
+        0.007,
+        0.015648501
+      ],
+      "translation": [
+        0.0,
+        0.744,
+        0.0
+      ],
+      "name": "Cloud_Cumulus (3)"
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9729
+    },
+    {
+      "minFilter": 9987
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Clouds"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "normal"
+    },
+    {
+      "sampler": 1,
+      "source": 1,
+      "name": "diffuse"
+    }
+  ]
+}
