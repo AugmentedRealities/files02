@@ -1,0 +1,226 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1020709,
+      "type": "VEC3",
+      "max": [
+        5.9859395027160645,
+        1.4578220844268799,
+        5.4032626152038574
+      ],
+      "min": [
+        -6.0117449760437012,
+        -1.3715404272079468,
+        -5.3548130989074707
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1020709,
+      "type": "VEC3",
+      "max": [
+        0.99999797344207764,
+        1.0,
+        0.9999995231628418
+      ],
+      "min": [
+        -0.99999797344207764,
+        -1.0,
+        -0.9999995231628418
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1020709,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.996272087097168,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1020709,
+      "type": "VEC2",
+      "max": [
+        0.998626172542572,
+        1.003217339515686
+      ],
+      "min": [
+        -0.063057355582714081,
+        0.0216483473777771
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 4275102,
+      "type": "SCALAR",
+      "max": [
+        1020708.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "3dmodel.bin",
+      "byteLength": 66094440
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 12248508
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12248508,
+      "byteLength": 12248508
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24497016,
+      "byteLength": 16331344
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 40828360,
+      "byteLength": 8165672
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48994032,
+      "byteLength": 17100408
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      },
+      "name": "defaultMat"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "jar (2)"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3
+      ],
+      "rotation": [
+        0.0,
+        -0.2115251,
+        0.0,
+        -0.977372646
+      ],
+      "scale": [
+        20.0,
+        20.0,
+        20.0
+      ],
+      "translation": [
+        0.139532581,
+        150.0,
+        -3.0633502
+      ],
+      "name": "3dmodel"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.080062516,
+        0.0,
+        -0.9967899
+      ],
+      "translation": [
+        0.00370120327,
+        2.65000319,
+        0.00236984272
+      ],
+      "name": "jar (2)"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.080062516,
+        0.0,
+        -0.9967899
+      ],
+      "translation": [
+        0.00370120327,
+        0.36,
+        0.00236984272
+      ],
+      "name": "jar (3)"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.3303449,
+        0.0,
+        -0.943860352
+      ],
+      "translation": [
+        0.0122908158,
+        -2.06999946,
+        0.0133330105
+      ],
+      "name": "jar (4)"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "3dmodel"
+    }
+  ]
+}
