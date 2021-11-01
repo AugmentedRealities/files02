@@ -1,0 +1,245 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 129692,
+      "type": "VEC3",
+      "max": [
+        5.9705953598022461,
+        1.501845121383667,
+        5.3447790145874023
+      ],
+      "min": [
+        -5.9898080825805664,
+        -1.4511291980743408,
+        -5.3932290077209473
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 129692,
+      "type": "VEC3",
+      "max": [
+        0.99999165534973145,
+        1.0,
+        0.99999749660491943
+      ],
+      "min": [
+        -0.99999260902404785,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 129692,
+      "type": "VEC4",
+      "max": [
+        0.99998795986175537,
+        1.0,
+        0.99999916553497314,
+        1.0
+      ],
+      "min": [
+        -0.99999797344207764,
+        -0.99609899520874023,
+        -0.9999929666519165,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 129692,
+      "type": "VEC2",
+      "max": [
+        1.0183990001678467,
+        1.1102817058563232
+      ],
+      "min": [
+        -0.24254773557186127,
+        -0.13154904544353485
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 427506,
+      "type": "SCALAR",
+      "max": [
+        129691.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "Plattar UnityGLTF (2020.3.19f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "3dmodel.bin",
+      "byteLength": 7935240
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1556304
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1556304,
+      "byteLength": 1556304
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3112608,
+      "byteLength": 2075072
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5187680,
+      "byteLength": 1037536
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6225216,
+      "byteLength": 1710024
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      },
+      "name": "defaultMat"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "default"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        3
+      ],
+      "rotation": [
+        0.0,
+        -0.2115251,
+        0.0,
+        -0.977372646
+      ],
+      "scale": [
+        0.0400000028,
+        0.0400000028,
+        0.0400000028
+      ],
+      "translation": [
+        0.000279065163,
+        0.3,
+        -0.006126701
+      ],
+      "name": "3dmodel"
+    },
+    {
+      "children": [
+        2
+      ],
+      "rotation": [
+        0.0,
+        0.2115251,
+        0.0,
+        -0.977372646
+      ],
+      "scale": [
+        1.125,
+        1.125,
+        1.125
+      ],
+      "translation": [
+        -0.302958429,
+        -0.975,
+        0.650268
+      ],
+      "name": "jar_02"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "default"
+    },
+    {
+      "children": [
+        4
+      ],
+      "rotation": [
+        -0.977372646,
+        0.0,
+        -0.2115251,
+        0.0
+      ],
+      "scale": [
+        1.125,
+        1.12499964,
+        1.12499964
+      ],
+      "translation": [
+        -0.302958429,
+        2.22500014,
+        0.650268
+      ],
+      "name": "jar_02 (1)"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "default"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "3dmodel"
+    }
+  ]
+}
